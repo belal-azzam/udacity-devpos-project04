@@ -1,4 +1,4 @@
-[![belal-azzam](https://circleci.com/github/belal-azzam/udacity-devpos-project04.svg?style=svg)](https://app.circleci.com/pipelines/github/belal-azzam/udacity-devpos-project04)
+[![belal-azzam](https://circleci.com/gh/belal-azzam/udacity-devpos-project04.svg?style=svg)](https://app.circleci.com/pipelines/github/belal-azzam/udacity-devpos-project04)
 
 <include a CircleCI status badge, here>
 
