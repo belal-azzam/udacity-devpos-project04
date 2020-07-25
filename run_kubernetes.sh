@@ -8,7 +8,7 @@ dockerpath=belalazzam/flask-machine:v1
 
 # Step 2
 # Run the Docker Hub container with kubernetes
-kubectl create deployment --image=belalazzam/flask-machine:v1 flask-machine
+kubectl create deployment --image=dockerpath flask-machine
 
 
 # Step 3:
