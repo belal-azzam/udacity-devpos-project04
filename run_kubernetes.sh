@@ -15,6 +15,8 @@ kubectl run flask-machine --image=$dockerpath   --labels="app=flask-machine"
 # Step 3:
 # List kubernetes pods
 kubectl get pods
+sleep 5
+
 # Step 4:
 # Forward the container port to a host
 kubectl port-forward deployment.apps/flask-machine 8080:80
